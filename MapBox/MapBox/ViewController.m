@@ -129,4 +129,8 @@
     NSLog(@"Offline pack “%@” reached limit of %llu tiles.", userInfo[@"name"], maximumCount);
 }
 
+-(void)methodChanged{
+    
+}
+
 @end
